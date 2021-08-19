@@ -1,0 +1,7 @@
+com\meedra\repository\AccountVelocitiesRepository.class
+com\meedra\model\AccountVelocities.class
+com\meedra\service\PanAccountEncryptorService.class
+com\meedra\config\EncryptorConfig.class
+com\meedra\model\AccountVelocitiesId.class
+com\meedra\PostcardEncryptorApplication.class
+com\meedra\service\AccountVelocitiesService.class

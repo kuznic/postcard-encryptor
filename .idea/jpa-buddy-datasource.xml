@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="446e334f-6b01-4c26-a501-e1dd0ad13d49" name="postcard-encryptor" url="jdbc:sqlserver://192.168.1.172;databaseName=postcard;portNumber=1433" driverClass="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
+    </data-sources>
+  </component>
+</project>
